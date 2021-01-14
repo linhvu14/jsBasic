@@ -24,7 +24,7 @@ function renderListStudent(){
     document.getElementById('list-student').style.display = 'block';
 
       var tableContent = `<tr>
-        <td>#</td>
+        <td>ID</td>
         <td>Họ và tên</td>
         <td>Email</td>
         <td>Số điện thoại</td>
